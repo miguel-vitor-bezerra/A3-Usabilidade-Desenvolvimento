@@ -110,4 +110,13 @@ body{
     bottom: 50px;
     opacity: 1;
 }
+@media screen and (max-width: 768px) {
+    body{
+        text-align: center;
+    }
+    .logo,#button,#passoword,#slider{
+        width: 90%;
+    }
+    
+}
 
